@@ -1,6 +1,6 @@
 ---
 title: " 📊 Autodebias GCN: Dual-Model Correction for Exposure Bias in Implicit Feedback"
-excerpt: "Undergraduate thesis proposing a dual-LightGCN model to decompose implicit feedback into Preference and Exposure matrices, substantially reducing estimation variance and improving performance on benchmark datasets (Yahoo!R3, Coat).<br/><img src='/images/srtp_gif.gif'>"
+excerpt: "Undergraduate thesis proposing a dual-LightGCN model to decompose implicit feedback into Preference and Exposure matrices, substantially reducing estimation variance and improving performance on benchmark datasets (Yahoo!R3, Coat).<br/><img src='/images/debias_teaser.png'>"
 paperurl: '../files/zjuthesis.pdf'
 collection: portfolio
 ---

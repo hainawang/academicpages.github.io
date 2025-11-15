@@ -54,6 +54,19 @@ Industry & Engineering Roles
   * Duties included: Analyzed advanced quantitative research reports. Used Python to successfully reproduce and verify the results, including 29 analytical tables and 9 figures from timing strategy reports, demonstrating strong data reproduction, visualization, and quantitative analysis skills.
   * Supervisor: Kang He
 
+Honors
+======
+Contests (ACM/ICPC/CCPC)
+* Gold Medal of the 2021 China Collegiate Programming Contest Asia East Contests, Weihai, Nov 2022
+* Gold Medal of the 2021 International Collegiate Programming Contest Asia East Contests, Kunming, Apr 2022
+* Gold Medal of the 2021 International Collegiate Programming Contest Asia East Contests, Jinan, Nov 2021
+* Gold Medal of the 2021 International Collegiate Programming Contest Asia East Contests, Kunming, Apr 2021
+* Gold Medal of the 2020 International Collegiate Programming Contest Asia East Contests, Yinchuan, May 2021
+
+Scholarship
+* 2nd Prize Academic Scholarship of Zhejiang University in Oct 2021, Oct 2023 (8%)
+* 2nd Prize ND Scholarship of Zhejiang University Education Foundation in Oct 2021 (7/735)
+
   
 Skills
 ======
